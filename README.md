@@ -11,8 +11,6 @@ Hi 👋 I'm is Suriyaprasanth
 <a href="https://www.github.com/suriyaprasanthN" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-### Skills
-
 
 <h3 align="left">Programming Languages :</h3>
 
