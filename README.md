@@ -1,4 +1,4 @@
-Hi 👋 My name is Suriyaprasanth
+Hi 👋 I'm is Suriyaprasanth
 ===============================
 
 * ✉️  You can contact me at [suriyaprasanthsafety@gmail.com](mailto:suriyaprasanthsafety@gmail.com)
