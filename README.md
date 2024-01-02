@@ -2,7 +2,6 @@ Hi 👋 I'm is Suriyaprasanth
 ===============================
 
 * ✉️  You can contact me at [suriyaprasanthsafety@gmail.com](mailto:suriyaprasanthsafety@gmail.com)
-* 🧠  I'm learning Salem
 * ⚡  💬 Ask me about Bugbounty , Application Security,Digital forensics
 
 <h3 align="center">A passionate Hacker from India</h3>
