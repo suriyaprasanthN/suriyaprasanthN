@@ -7,9 +7,6 @@ Hi 👋, I'm Suriyaprasanth
 <h3 align="center">A passionate Hacker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyaprasanthN&label=Profile%20views&color=0e75b6&style=flat" alt="suriyaprasanthN" /> </p>
-<a href="https://www.github.com/suriyaprasanthN" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 
 <h3 align="left">Programming Languages :</h3>
 
@@ -32,11 +29,13 @@ src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=f
  <p align="left"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
-### Socials
+### Connect with me:
 
-<p align="left"> <a href="https://www.github.com/suriyaprasanthN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/suriyaprasanth-n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/suriyaprasanth-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suriyaprasanth-n" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suriyaprasanth_n?igsh=YngxNm1uODg5OWh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suriyaprasanth_n" height="30" width="40" /></a>
+</p>
 
-### Badges
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyaprasanthN&show_icons=true&locale=en&layout=compact" alt="suriyaprasanthN" /></p>
 
