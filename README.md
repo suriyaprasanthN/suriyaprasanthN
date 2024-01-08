@@ -1,12 +1,12 @@
 Hi 👋, I'm Suriyaprasanth
 ===============================
-
-* ✉️  You can contact me at [suriyaprasanthsafety@gmail.com](mailto:suriyaprasanthsafety@gmail.com)
-* ⚡  💬 Ask me about Bugbounty , Application Security,Digital forensics
-
+- 🌱 I’m currently learning **MERN - Satck Development**
+- 📫 How to reach me **suriyaprasanthsafety@gmail.com**
+- 💬 Ask me about **Bugbounty , Application Security,Digital forensics , Active Directory , Internal Network Security**
+- 📄  Know about my experiences [My Resume](https://drive.google.com/file/d/1NFmJ6849J16fiXS7bhqLJG_gtSLsdnO0/view?usp=drivesdk)
 <h3 align="center">A passionate Hacker from India</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyaprasanthN&label=Profile%20views&color=0e75b6&style=flat" alt="suriyaprasanthN" /> </p>
 <a href="https://www.github.com/suriyaprasanthN" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=f
 
  <h3 align="left">Others :</h3>
 
- <p align="left"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+ <p align="left"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 ### Socials
@@ -38,12 +38,9 @@ src="https://img.shields.io/github/followers/suriyaprasanthN?logo=github&style=f
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyaprasanthN&show_icons=true&locale=en&layout=compact" alt="suriyaprasanthN" /></p>
 
-<a href="http://www.github.com/suriyaprasanthN"><img src="https://github-readme-stats.vercel.app/api?username=suriyaprasanthN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="suriyaprasanthN's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suriyaprasanthN&show_icons=true&locale=en" alt="suriyaprasanthN" /></p>
 
-<a href="http://www.github.com/suriyaprasanthN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaprasanthN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaprasanthN&" alt="suriyaprasanthN" /></p>
 
-<a href="http://www.github.com/suriyaprasanthN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=suriyaprasanthN&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/suriyaprasanthN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprasanthN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
