@@ -1,6 +1,6 @@
 Hi 👋, I'm Suriyaprasanth
 ===============================
-- 🌱 I’m currently learning **MERN - Satck Development**
+- 🌱 I’m currently learning ** CCNP **
 - 📫 How to reach me **suriyaprasanthsafety@gmail.com**
 - 💬 Ask me about **Bugbounty , Application Security,Digital forensics , Active Directory , Internal Network Security**
 - 📄  Know about my experiences [My Resume](https://drive.google.com/file/d/1NFmJ6849J16fiXS7bhqLJG_gtSLsdnO0/view?usp=drivesdk)
